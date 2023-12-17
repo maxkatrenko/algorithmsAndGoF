@@ -1,4 +1,4 @@
-package GoF.Factories.FactoryMethod;
+package GoF.Factories.Factory;
 
 public class HtmlButton implements Button {
 
