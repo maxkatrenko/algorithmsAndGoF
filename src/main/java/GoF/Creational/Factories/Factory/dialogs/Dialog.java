@@ -1,4 +1,6 @@
-package GoF.Creational.Factories.Factory;
+package GoF.Creational.Factories.Factory.dialogs;
+
+import GoF.Creational.Factories.Factory.buttons.Button;
 
 public abstract class Dialog {
 

@@ -1,4 +1,4 @@
-package GoF.Creational.Factories.Factory;
+package GoF.Creational.Factories.Factory.buttons;
 
 public class HtmlButton implements Button {
 

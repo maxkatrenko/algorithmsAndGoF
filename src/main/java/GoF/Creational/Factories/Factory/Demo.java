@@ -1,5 +1,9 @@
 package GoF.Creational.Factories.Factory;
 
+import GoF.Creational.Factories.Factory.dialogs.Dialog;
+import GoF.Creational.Factories.Factory.dialogs.HtmlDialog;
+import GoF.Creational.Factories.Factory.dialogs.WindowsDialog;
+
 public class Demo {
 
     private static Dialog dialog;
