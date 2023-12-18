@@ -1,4 +1,4 @@
-package GoF.Factories.Factory;
+package GoF.Creational.Factories.Factory;
 
 public abstract class Dialog {
 

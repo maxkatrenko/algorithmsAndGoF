@@ -1,4 +1,4 @@
-package GoF.Factories.Factory;
+package GoF.Creational.Factories.Factory;
 
 import javax.swing.*;
 import java.awt.*;
